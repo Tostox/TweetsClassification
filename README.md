@@ -7,7 +7,7 @@ The goal of this work is to build predictive models that can automatically infer
 
 ### Requirements 
 
-In this work I use my personal python package for ML tasks. You can install it by download the source folder from my GitHub repository  https://github.com/Tostox/mltool or use the pip commad: 
+In this work I use my personal python package for ML tasks. You can install it by download the source folder from my GitHub repository  https://github.com/Tostox/mltools or use the pip commad: 
 
 ```bash
 pip install git+https://github.com/Tostox/mltools.git
